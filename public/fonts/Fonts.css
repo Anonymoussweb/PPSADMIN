@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "StudioFeixenSansReg";
+  src: url("./StudioFeixenSans/StudioFeixenSans-Reg.ttf");
+  font-weight: 400;
+  font-variant: norm;
+}
+
+@font-face {
+  font-family: "StudioFeixenSansMed";
+  src: url("./StudioFeixenSans/StudioFeixenSans-Med.ttf");
+  font-weight: 500;
+  font-variant: normal;
+}
+
+@font-face {
+  font-family: "StudioFeixenSansBold";
+  src: url("./StudioFeixenSans/StudioFeixenSans-Bol.ttf");
+  font-weight: 700;
+  font-variant: normal;
+}
+
+@font-face {
+  font-family: "StudioFeixenSansLight";
+  src: url("./StudioFeixenSans/StudioFeixenSans-Boo.ttf");
+  font-weight: 300;
+  font-variant: normal;
+}
